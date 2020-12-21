@@ -1,0 +1,14 @@
+{
+  "name": "spec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "specs.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.6.3"
+  }
+}
